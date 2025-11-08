@@ -4,7 +4,7 @@
 📍 Ahmedabad, India
 
 📧 [kachhiyadhruvit1992@gmail.com](mailto:kachhiyadhruvit1992@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhruvit-kachhiya-6a6562105/)
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruvit-kachhiya-6a6562105/)  
 ---
 
 ## 💡 About Me
@@ -29,6 +29,15 @@ I’ve successfully contributed to multiple **App Store live products**, leading
 | **Testing** | XCTest, Unit Testing, Regression Testing |
 | **Project Management** | Trello, Asana, ZOHO, Planio |
 | **Other Skills** | App Store Deployment, TestFlight, App Lifecycle Management |
+
+### 💪 Core Expertise
+- **Swift** (7+ years) - Expert level with latest Swift features
+- **SwiftUI** (1+ years) - Building modern, declarative UIs
+- **Objective-C** (2+ years) - Legacy code maintenance and migration
+- **Architecture Patterns** - MVVM, MVC
+- **Performance Optimization** - Memory management, multithreading, caching
+- **API Integration** - RESTful APIs, WebSocket
+- **Payment Systems** - Multiple gateway integrations with secure transactions
 
 ---
 
@@ -114,20 +123,59 @@ A dynamic video-based social app allowing users to capture, edit, and merge vide
 
 ## 🧭 Career Highlights
 
-- 10+ years in iOS app development and deployment.
-- Worked on **30+ live App Store apps** across business, social, lifestyle, and health categories.
-- Proven ability to optimize app performance and stability.
-- Passionate about architecture design, performance optimization, and mentoring.
+- **10+ years** in iOS app development and deployment
+- **30+ live App Store apps** across business, social, lifestyle, and health categories
+- **70% crash reduction** achieved through systematic debugging and optimization
+- **40% performance improvement** in multiple apps through architecture refactoring
+- Proven ability to optimize app performance and stability
+- Passionate about architecture design, performance optimization, and mentoring
+- Experienced in leading teams and conducting code reviews
+
+---
+
+## 🎯 What I'm Currently Learning
+
+- **iOS 26** new features and APIs
+- **Swift Concurrency** advanced patterns (async/await, actors)
+- **SwiftUI** advanced animations and transitions
+- **App Store Optimization** (ASO) strategies
+- **CI/CD** pipeline optimization with Fastlane
+
+---
+
+## 🛠️ Tools I Use Daily
+
+- **Development**: Xcode, iOS Simulator, Terminal
+- **Version Control**: Git, GitHub, GitLab, SourceTree
+- **Design Collaboration**: Figma, Sketch
+- **Project Management**: Trello, Asana, Planio, Zoho
+- **Communication**: Slack, Microsoft Teams, Skype
+- **Analytics**: Firebase Analytics, Google Analytics
+- **Testing**: TestFlight, XCTest, Postman
 
 ---
 
 ## 📫 Let's Connect
 
-💬 Open for freelance, full-time, and remote opportunities.  
-Feel free to reach out for collaboration or iOS consulting.
+💬 **Open for opportunities**: Freelance, full-time, and remote positions  
+🚀 **Available for**: iOS consulting, architecture reviews, team mentoring  
+📅 **Response time**: Usually within 24 hours
 
+### Get in Touch
 📧 [kachhiyadhruvit1992@gmail.com](mailto:kachhiyadhruvit1992@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/dhruvit-kachhiya-6a6562105/)
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruvit-kachhiya-6a6562105/)  
+
+---
+
+## 📊 Portfolio Metrics
+
+| Metric | Value |
+|--------|-------|
+| **Years of Experience** | 10+ years |
+| **Apps Published** | 30+ live apps |
+| **Performance Improvement** | Up to 40% faster |
+| **Crash Reduction** | Up to 70% reduction |
+| **User Retention Improvement** | Up to 25% increase |
 
 ---
 
