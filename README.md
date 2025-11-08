@@ -112,17 +112,22 @@ A social gifting app where users send photos with money (“Clinks”) to friend
 **Category:** Social | **Tech:** Objective-C, Parse Server  
 A dynamic video-based social app allowing users to capture, edit, and merge videos with hashtags, tagging, and chat features.
 
-### 🏪 **Locoven – B2B Supply Chain Platform**
-**Category:** Business / B2B Commerce  
+### 🏪 [Locoven – B2B Supply Chain Platform](#)
+**Category:** Business / B2B Commerce | **Tech:** Swift, SwiftUI, REST APIs, MVVM  
 **Description:**  
-Locoven connects **vendors** and **restaurant owners** across multiple cities like New York, Los Angeles, and Dallas to streamline the restaurant supply chain.  
-This is a **B2B-only** platform where restaurant owners can place orders for groceries, dairy, beverages, dry fruits, and more from verified vendors.  
-**Key Features:**  
-- Vendor & Restaurant onboarding with multi-city coverage  
-- Product catalog management  
-- Real-time order tracking (Pending → Accepted → Dispatched → Completed / Rejected)  
-- Order Filtering by city, status, and date  
-**Tech Stack:** Swift, SwiftUI, REST APIs, MVVM Architecture  
+Locoven is a **B2B supply chain platform** that connects **vendors** and **restaurant owners** across major cities like **New York, Los Angeles, and Dallas**, streamlining restaurant procurement and operations.  
+
+**Key Highlights:**  
+- Vendor and restaurant onboarding with multi-city support  
+- Comprehensive product catalog management for groceries, dairy, beverages, and dry fruits  
+- Real-time order lifecycle tracking: *Pending → Accepted → Dispatched → Completed / Rejected*  
+- Advanced filtering by city, status, and date for better order management  
+⭐ *Designed to simplify restaurant supply chain logistics and enhance transparency between suppliers and buyers.*
+
+### 🏢 [Empire Automations](https://apps.apple.com/us/app/empire-automations/id6752958241)
+**Role:** iOS Developer | **Tech:** Swift, SwiftUI, Face ID, REST APIs  
+**Description:**  
+Empire Automations is a business productivity app that helps organizations automate attendance tracking, secure authentication, and task management. Designed for teams to save time, boost productivity, and scale operations with ease.
 
 ---
 
