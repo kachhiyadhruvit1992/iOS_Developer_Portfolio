@@ -112,6 +112,18 @@ A social gifting app where users send photos with money (“Clinks”) to friend
 **Category:** Social | **Tech:** Objective-C, Parse Server  
 A dynamic video-based social app allowing users to capture, edit, and merge videos with hashtags, tagging, and chat features.
 
+### 🏪 **Locoven – B2B Supply Chain Platform**
+**Category:** Business / B2B Commerce  
+**Description:**  
+Locoven connects **vendors** and **restaurant owners** across multiple cities like New York, Los Angeles, and Dallas to streamline the restaurant supply chain.  
+This is a **B2B-only** platform where restaurant owners can place orders for groceries, dairy, beverages, dry fruits, and more from verified vendors.  
+**Key Features:**  
+- Vendor & Restaurant onboarding with multi-city coverage  
+- Product catalog management  
+- Real-time order tracking (Pending → Accepted → Dispatched → Completed / Rejected)  
+- Order Filtering by city, status, and date  
+**Tech Stack:** Swift, SwiftUI, REST APIs, MVVM Architecture  
+
 ---
 
 ## 🎓 Education
