@@ -70,32 +70,38 @@ I’ve successfully contributed to multiple **App Store live products**, leading
 A cloud-based construction management app enabling real-time project tracking, communication, and snag management.  
 ⭐ *Achievements:* Reduced crash rate by 70%, implemented offline access.
 
----
-
 ### 🧠 [Brain Wellness App](https://apps.apple.com/us/app/brain-wellness-spa/id1534412422)
 **Category:** Health & Fitness | **Tech:** Swift, Audio Player, In-App Purchase  
 Mental wellness app offering 75+ audio sessions for mindfulness and self-improvement.  
 ⭐ *Achievements:* Boosted app downloads by 30% through performance improvements.
 
----
-
-### 🍽️ YupiT & YupiT Partner
+### 🍽️ [YupiT & YupiT Partner](https://apps.apple.com/us/app/yupit/id1489180368)
 **Category:** Food & Drink | **Tech:** Swift, Firebase, Stripe  
 Two connected apps—one for customers to discover, book, and order; one for venues to manage orders and payments.  
 ⭐ *Achievements:* Improved user retention by 25% with seamless booking flows.
-
----
-
-### 🎬 Zipline
-**Category:** Social | **Tech:** Objective-C, Parse Server  
-A dynamic video-based social app allowing users to capture, edit, and merge videos with hashtags, tagging, and chat features.
-
----
 
 ### 🛍️ [Lendlease Plus](https://apps.apple.com/sg/app/lendlease-plus/id1435206275)
 **Category:** Shopping | **Tech:** Swift, Firebase  
 A lifestyle and loyalty app offering e-vouchers and rewards for shopping at Lendlease malls.  
 ⭐ *Achievements:* Enhanced performance and optimized API workflows.
+
+### 🎮 Klash
+**Category:** Gaming & Entertainment | **Tech:** Swift  
+A video game betting app enabling users to join events, purchase coins, and cash out winnings securely.  
+⭐ *Highlights:* Implemented in-app currency, leaderboards, and payment system.
+
+### 🏢 [Ryuva Club](https://apps.apple.com/us/app/ryuva-club/id1385360329)
+**Category:** Business | **Tech:** Swift  
+A networking and business platform for Rajput entrepreneurs.  
+⭐ *Achievements:* Increased engagement with advanced search and messaging features.
+
+### 🎁 [Clink](https://itunes.apple.com/us/app/clink-gift/id1196032274)
+**Category:** Social | **Tech:** Swift  
+A social gifting app where users send photos with money (“Clinks”) to friends using Apple Pay integrations.
+
+### 🎬 [Zipline](https://apps.apple.com/us/app/zipline-capture-your-story/id1107457212)
+**Category:** Social | **Tech:** Objective-C, Parse Server  
+A dynamic video-based social app allowing users to capture, edit, and merge videos with hashtags, tagging, and chat features.
 
 ---
 
