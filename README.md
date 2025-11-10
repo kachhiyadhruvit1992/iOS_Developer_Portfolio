@@ -22,7 +22,7 @@ I’ve successfully contributed to multiple **App Store live products**, leading
 |-----------|----------------------|
 | **Languages** | Swift, Objective-C |
 | **Frameworks** | SwiftUI, UIKit, Core Data, Combine, StoreKit, AVFoundation |
-| **Architectures** | MVVM, MVC |
+| **Architectures** | MVVM, MVC, VIPER, Clean Architecture |
 | **Tools** | Xcode, Git, GitHub, GitLab, Bitbucket, SourceTree |
 | **Cloud & Services** | Firebase (Crashlytics, Analytics, FCM, Remote Config), Google Maps, Facebook SDK, Twilio Segment Analytics |
 | **Payments** | Stripe, Razorpay, PayPal, In-App Purchase |
@@ -162,7 +162,7 @@ Empire Automations is a business productivity app that helps organizations autom
 
 ## 🛠️ Tools I Use Daily
 
-- **Development**: Xcode, iOS Simulator, Terminal
+- **Development**: Xcode
 - **Version Control**: Git, GitHub, GitLab, SourceTree
 - **Design Collaboration**: Figma, Sketch
 - **Project Management**: Trello, Asana, Planio, Zoho
